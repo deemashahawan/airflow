@@ -1,0 +1,910 @@
+[2024-03-23T02:25:53.290+0000] {processor.py:161} INFO - Started process (PID=2093) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:25:53.294+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:25:53.305+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:25:53.304+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:25:55.444+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:25:55.543+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:25:55.541+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:25:55.645+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:25:55.644+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:25:56.074+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 2.796 seconds
+[2024-03-23T02:26:27.163+0000] {processor.py:161} INFO - Started process (PID=2095) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:26:27.166+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:26:27.172+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:26:27.170+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:26:27.897+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:26:27.959+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:26:27.959+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:26:27.980+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:26:27.979+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:26:28.135+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.979 seconds
+[2024-03-23T02:26:58.293+0000] {processor.py:161} INFO - Started process (PID=2097) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:26:58.294+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:26:58.296+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:26:58.295+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:26:59.184+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:26:59.257+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:26:59.257+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:26:59.275+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:26:59.275+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:26:59.389+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 1.099 seconds
+[2024-03-23T02:27:29.892+0000] {processor.py:161} INFO - Started process (PID=2099) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:27:29.894+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:27:29.895+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:27:29.895+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:27:30.616+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:27:30.655+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:27:30.655+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:27:30.669+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:27:30.669+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:27:30.798+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.909 seconds
+[2024-03-23T02:28:01.179+0000] {processor.py:161} INFO - Started process (PID=2101) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:28:01.180+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:28:01.182+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:28:01.182+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:28:01.837+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:28:01.877+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:28:01.877+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:28:01.891+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:28:01.891+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:28:02.049+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.873 seconds
+[2024-03-23T02:28:32.217+0000] {processor.py:161} INFO - Started process (PID=2103) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:28:32.219+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:28:32.220+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:28:32.220+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:28:32.877+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:28:32.908+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:28:32.908+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:28:32.921+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:28:32.921+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:28:33.012+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.797 seconds
+[2024-03-23T02:29:03.495+0000] {processor.py:161} INFO - Started process (PID=2105) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:29:03.496+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:29:03.497+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:29:03.497+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:29:04.150+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:29:04.183+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:29:04.183+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:29:04.198+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:29:04.197+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:29:04.311+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.819 seconds
+[2024-03-23T02:29:34.465+0000] {processor.py:161} INFO - Started process (PID=2107) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:29:34.466+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:29:34.468+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:29:34.467+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:29:35.139+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:29:35.173+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:29:35.172+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:29:35.189+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:29:35.189+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:29:35.352+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.890 seconds
+[2024-03-23T02:30:05.842+0000] {processor.py:161} INFO - Started process (PID=2109) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:30:05.843+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:30:05.845+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:30:05.845+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:30:06.471+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:30:06.501+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:30:06.500+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:30:06.516+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:30:06.516+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:30:06.639+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.800 seconds
+[2024-03-23T02:30:37.039+0000] {processor.py:161} INFO - Started process (PID=2111) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:30:37.040+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:30:37.042+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:30:37.041+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:30:37.708+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:30:37.743+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:30:37.742+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:30:37.757+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:30:37.757+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:30:37.878+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.842 seconds
+[2024-03-23T02:31:08.342+0000] {processor.py:161} INFO - Started process (PID=2113) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:31:08.343+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:31:08.345+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:31:08.345+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:31:09.019+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:31:09.058+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:31:09.058+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:31:09.074+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:31:09.073+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:31:09.221+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.883 seconds
+[2024-03-23T02:31:39.748+0000] {processor.py:161} INFO - Started process (PID=2115) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:31:39.749+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:31:39.751+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:31:39.750+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:31:40.446+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:31:40.478+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:31:40.477+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:31:40.490+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:31:40.490+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:31:40.597+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.852 seconds
+[2024-03-23T02:32:10.926+0000] {processor.py:161} INFO - Started process (PID=2117) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:32:10.928+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:32:10.929+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:32:10.928+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:32:11.552+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:32:11.577+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:32:11.576+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:32:11.590+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:32:11.589+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:32:11.748+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.824 seconds
+[2024-03-23T02:32:42.089+0000] {processor.py:161} INFO - Started process (PID=2119) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:32:42.091+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:32:42.092+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:32:42.092+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:32:42.750+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:32:42.776+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:32:42.776+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:32:42.794+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:32:42.793+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:32:42.942+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.855 seconds
+[2024-03-23T02:33:13.265+0000] {processor.py:161} INFO - Started process (PID=2121) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:33:13.266+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:33:13.268+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:33:13.267+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:33:13.919+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:33:13.946+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:33:13.946+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:33:13.960+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:33:13.959+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:33:14.081+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.819 seconds
+[2024-03-23T02:33:44.474+0000] {processor.py:161} INFO - Started process (PID=2123) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:33:44.475+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:33:44.478+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:33:44.477+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:33:45.118+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:33:45.146+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:33:45.145+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:33:45.159+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:33:45.158+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:33:45.280+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.809 seconds
+[2024-03-23T02:34:15.694+0000] {processor.py:161} INFO - Started process (PID=2125) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:34:15.696+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:34:15.698+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:34:15.697+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:34:16.377+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:34:16.415+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:34:16.414+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:34:16.428+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:34:16.427+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:34:16.552+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.861 seconds
+[2024-03-23T02:34:46.857+0000] {processor.py:161} INFO - Started process (PID=2127) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:34:46.858+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:34:46.860+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:34:46.859+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:34:47.533+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:34:47.561+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:34:47.561+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:34:47.573+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:34:47.573+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:34:47.692+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.838 seconds
+[2024-03-23T02:35:17.956+0000] {processor.py:161} INFO - Started process (PID=2129) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:35:17.958+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:35:17.960+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:35:17.959+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:35:18.588+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:35:18.615+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:35:18.615+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:35:18.627+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:35:18.627+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:35:18.746+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.793 seconds
+[2024-03-23T02:35:49.232+0000] {processor.py:161} INFO - Started process (PID=2131) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:35:49.234+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:35:49.235+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:35:49.235+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:35:49.969+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:35:50.011+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:35:50.010+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:35:50.033+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:35:50.033+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:35:50.173+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.944 seconds
+[2024-03-23T02:36:20.505+0000] {processor.py:161} INFO - Started process (PID=2133) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:36:20.507+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:36:20.508+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:36:20.508+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:36:21.235+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:36:21.272+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:36:21.271+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:36:21.298+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:36:21.297+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:36:21.421+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.918 seconds
+[2024-03-23T02:36:51.851+0000] {processor.py:161} INFO - Started process (PID=2135) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:36:51.853+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:36:51.855+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:36:51.855+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:36:52.554+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:36:52.590+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:36:52.590+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:36:52.608+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:36:52.608+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:36:52.787+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.939 seconds
+[2024-03-23T02:37:23.224+0000] {processor.py:161} INFO - Started process (PID=2137) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:37:23.226+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:37:23.227+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:37:23.226+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:37:23.887+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:37:23.914+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:37:23.913+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:37:23.926+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:37:23.926+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:37:24.055+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.833 seconds
+[2024-03-23T02:37:54.359+0000] {processor.py:161} INFO - Started process (PID=2139) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:37:54.362+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:37:54.364+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:37:54.363+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:37:55.001+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:37:55.041+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:37:55.040+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:37:55.060+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:37:55.060+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:37:55.175+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.821 seconds
+[2024-03-23T02:38:25.487+0000] {processor.py:161} INFO - Started process (PID=2141) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:38:25.489+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:38:25.490+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:38:25.490+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:38:26.164+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:38:26.194+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:38:26.194+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:38:26.209+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:38:26.209+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:38:26.359+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.875 seconds
+[2024-03-23T02:38:56.751+0000] {processor.py:161} INFO - Started process (PID=2143) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:38:56.753+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:38:56.755+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:38:56.755+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:38:57.434+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:38:57.459+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:38:57.459+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:38:57.471+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:38:57.471+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:38:57.599+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.850 seconds
+[2024-03-23T02:39:27.950+0000] {processor.py:161} INFO - Started process (PID=2145) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:39:27.952+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:39:27.954+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:39:27.953+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:39:28.658+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:39:28.690+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:39:28.690+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:39:28.705+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:39:28.705+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:39:28.849+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.905 seconds
+[2024-03-23T02:39:59.148+0000] {processor.py:161} INFO - Started process (PID=2147) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:39:59.149+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:39:59.151+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:39:59.151+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:39:59.828+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:39:59.855+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:39:59.854+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:39:59.867+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:39:59.867+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:40:00.001+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.856 seconds
+[2024-03-23T02:40:30.384+0000] {processor.py:161} INFO - Started process (PID=2149) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T02:40:30.385+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T02:40:30.387+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:40:30.386+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:40:31.066+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T02:40:31.103+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:40:31.103+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T02:40:31.119+0000] {logging_mixin.py:188} INFO - [2024-03-23T02:40:31.119+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T02:40:31.246+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.865 seconds
+[2024-03-23T05:42:22.655+0000] {processor.py:161} INFO - Started process (PID=2158) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:42:22.658+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:42:22.671+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:42:22.670+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:42:23.854+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:42:23.890+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:42:23.889+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:42:23.905+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:42:23.904+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:42:24.019+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 1.381 seconds
+[2024-03-23T05:42:55.318+0000] {processor.py:161} INFO - Started process (PID=2160) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:42:55.321+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:42:55.324+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:42:55.323+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:42:57.179+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:42:57.220+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:42:57.220+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:42:57.239+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:42:57.239+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:42:57.353+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 2.039 seconds
+[2024-03-23T05:43:28.392+0000] {processor.py:161} INFO - Started process (PID=2162) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:43:28.395+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:43:28.397+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:43:28.396+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:43:29.156+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:43:29.229+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:43:29.228+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:43:29.249+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:43:29.249+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:43:29.393+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 1.006 seconds
+[2024-03-23T05:44:00.290+0000] {processor.py:161} INFO - Started process (PID=2164) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:44:00.292+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:44:00.293+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:44:00.293+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:44:01.021+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:44:01.048+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:44:01.048+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:44:01.063+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:44:01.063+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:44:01.181+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.893 seconds
+[2024-03-23T05:44:31.923+0000] {processor.py:161} INFO - Started process (PID=2166) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:44:31.925+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:44:31.926+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:44:31.926+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:44:32.594+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:44:32.630+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:44:32.630+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:44:32.643+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:44:32.643+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:44:32.729+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.808 seconds
+[2024-03-23T05:45:03.281+0000] {processor.py:161} INFO - Started process (PID=2168) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:45:03.283+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:45:03.284+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:45:03.284+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:45:03.941+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:45:03.979+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:45:03.979+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:45:03.993+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:45:03.992+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:45:04.110+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.832 seconds
+[2024-03-23T05:45:34.762+0000] {processor.py:161} INFO - Started process (PID=2170) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:45:34.763+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:45:34.766+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:45:34.765+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:45:35.483+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:45:35.524+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:45:35.523+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:45:35.543+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:45:35.543+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:45:35.672+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.913 seconds
+[2024-03-23T05:46:06.337+0000] {processor.py:161} INFO - Started process (PID=2172) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:46:06.338+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:46:06.340+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:46:06.339+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:46:07.040+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:46:07.127+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:46:07.127+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:46:07.143+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:46:07.143+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:46:07.259+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.925 seconds
+[2024-03-23T05:46:37.832+0000] {processor.py:161} INFO - Started process (PID=2174) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:46:37.835+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:46:37.837+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:46:37.836+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:46:38.521+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:46:38.552+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:46:38.551+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:46:38.566+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:46:38.566+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:46:38.705+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.877 seconds
+[2024-03-23T05:47:09.238+0000] {processor.py:161} INFO - Started process (PID=2177) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:47:09.239+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:47:09.241+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:47:09.240+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:47:09.929+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:47:09.964+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:47:09.964+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:47:09.979+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:47:09.979+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:47:10.123+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.888 seconds
+[2024-03-23T05:47:40.540+0000] {processor.py:161} INFO - Started process (PID=2179) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:47:40.542+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:47:40.544+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:47:40.544+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:47:41.260+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:47:41.304+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:47:41.303+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:47:41.323+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:47:41.323+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:47:41.456+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.921 seconds
+[2024-03-23T05:48:11.793+0000] {processor.py:161} INFO - Started process (PID=2181) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:48:11.794+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:48:11.795+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:48:11.795+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:48:12.484+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:48:12.526+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:48:12.526+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:48:12.545+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:48:12.545+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:48:12.710+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.921 seconds
+[2024-03-23T05:48:43.065+0000] {processor.py:161} INFO - Started process (PID=2183) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:48:43.067+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:48:43.069+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:48:43.069+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:48:43.792+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:48:43.821+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:48:43.821+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:48:43.834+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:48:43.834+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:48:43.944+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.881 seconds
+[2024-03-23T05:49:14.070+0000] {processor.py:161} INFO - Started process (PID=2185) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:49:14.071+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:49:14.073+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:49:14.072+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:49:14.708+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:49:14.738+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:49:14.738+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:49:14.750+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:49:14.750+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:49:14.883+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.816 seconds
+[2024-03-23T05:49:45.290+0000] {processor.py:161} INFO - Started process (PID=2187) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:49:45.291+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:49:45.293+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:49:45.292+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:49:45.978+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:49:46.022+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:49:46.021+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:49:46.038+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:49:46.038+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:49:46.186+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.899 seconds
+[2024-03-23T05:50:16.565+0000] {processor.py:161} INFO - Started process (PID=2189) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:50:16.567+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:50:16.568+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:50:16.568+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:50:17.285+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:50:17.317+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:50:17.317+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:50:17.332+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:50:17.331+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:50:17.471+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.909 seconds
+[2024-03-23T05:50:47.910+0000] {processor.py:161} INFO - Started process (PID=2191) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:50:47.913+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:50:47.915+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:50:47.914+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:50:48.595+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:50:48.621+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:50:48.620+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:50:48.634+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:50:48.634+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:50:48.740+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.834 seconds
+[2024-03-23T05:51:19.082+0000] {processor.py:161} INFO - Started process (PID=2193) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:51:19.083+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:51:19.084+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:51:19.084+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:51:19.780+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:51:19.826+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:51:19.825+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:51:19.848+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:51:19.848+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:51:19.990+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.911 seconds
+[2024-03-23T05:51:50.339+0000] {processor.py:161} INFO - Started process (PID=2195) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:51:50.340+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:51:50.342+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:51:50.341+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:51:51.036+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:51:51.066+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:51:51.065+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:51:51.082+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:51:51.081+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:51:51.211+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.875 seconds
+[2024-03-23T05:52:21.530+0000] {processor.py:161} INFO - Started process (PID=2197) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:52:21.531+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:52:21.533+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:52:21.533+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:52:22.197+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:52:22.235+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:52:22.234+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:52:22.253+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:52:22.253+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:52:22.433+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.906 seconds
+[2024-03-23T05:52:52.574+0000] {processor.py:161} INFO - Started process (PID=2199) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:52:52.576+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:52:52.578+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:52:52.577+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:52:53.251+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:52:53.294+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:52:53.294+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:52:53.315+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:52:53.315+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:52:53.490+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.919 seconds
+[2024-03-23T05:53:24.021+0000] {processor.py:161} INFO - Started process (PID=2201) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:53:24.023+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:53:24.024+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:53:24.023+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:53:24.697+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:53:24.747+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:53:24.746+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:53:24.767+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:53:24.767+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:53:24.918+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.899 seconds
+[2024-03-23T05:53:55.328+0000] {processor.py:161} INFO - Started process (PID=2203) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:53:55.330+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:53:55.332+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:53:55.331+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:53:55.982+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:53:56.019+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:53:56.018+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:53:56.037+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:53:56.036+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:53:56.204+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.879 seconds
+[2024-03-23T05:54:26.486+0000] {processor.py:161} INFO - Started process (PID=2205) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:54:26.487+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:54:26.489+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:54:26.488+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:54:27.169+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:54:27.205+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:54:27.204+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:54:27.220+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:54:27.220+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:54:27.386+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.903 seconds
+[2024-03-23T05:54:57.781+0000] {processor.py:161} INFO - Started process (PID=2207) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:54:57.783+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:54:57.784+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:54:57.784+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:54:58.493+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:54:58.520+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:54:58.519+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:54:58.532+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:54:58.532+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:54:58.656+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.878 seconds
+[2024-03-23T05:55:28.779+0000] {processor.py:161} INFO - Started process (PID=2209) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:55:28.781+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:55:28.782+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:55:28.782+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:55:29.511+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:55:29.545+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:55:29.545+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:55:29.560+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:55:29.560+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:55:29.709+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.933 seconds
+[2024-03-23T05:56:00.130+0000] {processor.py:161} INFO - Started process (PID=2211) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:56:00.131+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:56:00.132+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:56:00.132+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:56:00.842+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:56:00.874+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:56:00.874+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:56:00.888+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:56:00.888+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:56:01.031+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.904 seconds
+[2024-03-23T05:56:31.434+0000] {processor.py:161} INFO - Started process (PID=2213) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:56:31.436+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:56:31.437+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:56:31.437+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:56:32.158+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:56:32.191+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:56:32.190+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:56:32.206+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:56:32.206+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:56:32.366+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.934 seconds
+[2024-03-23T05:57:02.773+0000] {processor.py:161} INFO - Started process (PID=2215) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:57:02.775+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:57:02.777+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:57:02.777+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:57:03.560+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:57:03.603+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:57:03.602+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:57:03.621+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:57:03.621+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:57:03.766+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.997 seconds
+[2024-03-23T05:57:34.247+0000] {processor.py:161} INFO - Started process (PID=2217) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T05:57:34.249+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T05:57:34.250+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:57:34.250+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:57:34.904+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T05:57:34.946+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:57:34.946+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T05:57:34.963+0000] {logging_mixin.py:188} INFO - [2024-03-23T05:57:34.963+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T05:57:35.108+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.864 seconds
+[2024-03-23T08:59:13.343+0000] {processor.py:161} INFO - Started process (PID=2219) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T08:59:13.346+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T08:59:13.349+0000] {logging_mixin.py:188} INFO - [2024-03-23T08:59:13.348+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T08:59:18.818+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T08:59:18.865+0000] {logging_mixin.py:188} INFO - [2024-03-23T08:59:18.865+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T08:59:18.904+0000] {logging_mixin.py:188} INFO - [2024-03-23T08:59:18.903+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T08:59:19.048+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 5.722 seconds
+[2024-03-23T08:59:50.372+0000] {processor.py:161} INFO - Started process (PID=2229) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T08:59:50.375+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T08:59:50.377+0000] {logging_mixin.py:188} INFO - [2024-03-23T08:59:50.377+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T08:59:51.113+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T08:59:51.173+0000] {logging_mixin.py:188} INFO - [2024-03-23T08:59:51.173+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T08:59:51.193+0000] {logging_mixin.py:188} INFO - [2024-03-23T08:59:51.193+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T08:59:51.350+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.981 seconds
+[2024-03-23T09:00:21.812+0000] {processor.py:161} INFO - Started process (PID=2231) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:00:21.814+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:00:21.816+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:00:21.816+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:00:22.505+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:00:22.564+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:00:22.563+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:00:22.586+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:00:22.585+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:00:22.735+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.928 seconds
+[2024-03-23T09:00:53.181+0000] {processor.py:161} INFO - Started process (PID=2233) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:00:53.184+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:00:53.186+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:00:53.185+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:00:53.871+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:00:53.897+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:00:53.896+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:00:53.910+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:00:53.909+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:00:54.041+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.863 seconds
+[2024-03-23T09:01:24.286+0000] {processor.py:161} INFO - Started process (PID=2235) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:01:24.288+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:01:24.289+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:01:24.289+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:01:24.977+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:01:25.008+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:01:25.007+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:01:25.028+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:01:25.028+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:01:25.199+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.916 seconds
+[2024-03-23T09:01:55.341+0000] {processor.py:161} INFO - Started process (PID=2237) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:01:55.343+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:01:55.344+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:01:55.344+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:01:56.028+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:01:56.073+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:01:56.072+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:01:56.095+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:01:56.095+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:01:56.216+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.878 seconds
+[2024-03-23T09:02:26.311+0000] {processor.py:161} INFO - Started process (PID=2239) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:02:26.312+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:02:26.314+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:02:26.313+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:02:26.959+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:02:27.000+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:02:26.999+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:02:27.018+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:02:27.018+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:02:27.158+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.850 seconds
+[2024-03-23T09:02:57.509+0000] {processor.py:161} INFO - Started process (PID=2241) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:02:57.511+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:02:57.512+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:02:57.512+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:02:58.204+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:02:58.234+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:02:58.233+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:02:58.247+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:02:58.246+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:02:58.377+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.870 seconds
+[2024-03-23T09:03:28.676+0000] {processor.py:161} INFO - Started process (PID=2243) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:03:28.677+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:03:28.679+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:03:28.679+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:03:29.341+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:03:29.375+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:03:29.374+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:03:29.390+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:03:29.389+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:03:29.521+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.848 seconds
+[2024-03-23T09:03:59.849+0000] {processor.py:161} INFO - Started process (PID=2245) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:03:59.851+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:03:59.852+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:03:59.851+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:04:00.547+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:04:00.579+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:04:00.578+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:04:00.594+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:04:00.594+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:04:00.730+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.883 seconds
+[2024-03-23T09:04:31.046+0000] {processor.py:161} INFO - Started process (PID=2247) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:04:31.048+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:04:31.049+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:04:31.049+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:04:31.722+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:04:31.753+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:04:31.753+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:04:31.766+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:04:31.765+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:04:31.883+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.840 seconds
+[2024-03-23T09:05:02.229+0000] {processor.py:161} INFO - Started process (PID=2249) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:05:02.230+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:05:02.232+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:05:02.231+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:05:02.862+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:05:02.901+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:05:02.901+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:05:02.923+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:05:02.922+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:05:03.055+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.830 seconds
+[2024-03-23T09:05:33.155+0000] {processor.py:161} INFO - Started process (PID=2251) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:05:33.157+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:05:33.159+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:05:33.158+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:05:33.842+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:05:33.879+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:05:33.878+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:05:33.894+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:05:33.894+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:05:34.056+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.904 seconds
+[2024-03-23T09:06:04.515+0000] {processor.py:161} INFO - Started process (PID=2253) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:06:04.516+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:06:04.518+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:06:04.517+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:06:05.204+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:06:05.247+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:06:05.247+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:06:05.266+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:06:05.265+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:06:05.392+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.880 seconds
+[2024-03-23T09:06:35.676+0000] {processor.py:161} INFO - Started process (PID=2255) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:06:35.678+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:06:35.679+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:06:35.679+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:06:36.340+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:06:36.368+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:06:36.367+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:06:36.380+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:06:36.380+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:06:36.500+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.826 seconds
+[2024-03-23T09:07:07.002+0000] {processor.py:161} INFO - Started process (PID=2257) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:07:07.004+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:07:07.005+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:07:07.005+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:07:07.680+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:07:07.717+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:07:07.716+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:07:07.737+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:07:07.737+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:07:07.915+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.915 seconds
+[2024-03-23T09:07:38.196+0000] {processor.py:161} INFO - Started process (PID=2259) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:07:38.197+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:07:38.198+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:07:38.198+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:07:38.885+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:07:38.913+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:07:38.912+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:07:38.925+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:07:38.925+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:07:39.047+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.854 seconds
+[2024-03-23T09:08:09.256+0000] {processor.py:161} INFO - Started process (PID=2261) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:08:09.258+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:08:09.259+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:08:09.259+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:08:09.911+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:08:09.938+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:08:09.938+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:08:09.950+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:08:09.950+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:08:10.093+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.840 seconds
+[2024-03-23T09:08:40.527+0000] {processor.py:161} INFO - Started process (PID=2263) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:08:40.529+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:08:40.531+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:08:40.530+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:08:41.270+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:08:41.305+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:08:41.304+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:08:41.321+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:08:41.321+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:08:41.454+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.930 seconds
+[2024-03-23T09:09:11.857+0000] {processor.py:161} INFO - Started process (PID=2265) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:09:11.859+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:09:11.860+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:09:11.860+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:09:12.557+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:09:12.586+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:09:12.586+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:09:12.601+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:09:12.601+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:09:12.745+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.891 seconds
+[2024-03-23T09:09:43.023+0000] {processor.py:161} INFO - Started process (PID=2267) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:09:43.024+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:09:43.026+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:09:43.026+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:09:43.730+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:09:43.831+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:09:43.831+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:09:43.855+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:09:43.855+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:09:44.052+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 1.032 seconds
+[2024-03-23T09:10:14.459+0000] {processor.py:161} INFO - Started process (PID=2269) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:10:14.461+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:10:14.462+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:10:14.462+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:10:15.143+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:10:15.178+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:10:15.178+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:10:15.193+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:10:15.193+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:10:15.317+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.862 seconds
+[2024-03-23T09:10:45.659+0000] {processor.py:161} INFO - Started process (PID=2271) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:10:45.660+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:10:45.662+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:10:45.661+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:10:46.393+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:10:46.434+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:10:46.434+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:10:46.450+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:10:46.450+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:10:46.577+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.921 seconds
+[2024-03-23T09:11:16.759+0000] {processor.py:161} INFO - Started process (PID=2273) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:11:16.762+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:11:16.766+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:11:16.764+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:11:17.458+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:11:17.500+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:11:17.500+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:11:17.520+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:11:17.519+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:11:17.737+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.983 seconds
+[2024-03-23T09:11:47.841+0000] {processor.py:161} INFO - Started process (PID=2275) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:11:47.843+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:11:47.845+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:11:47.844+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:11:48.553+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:11:48.579+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:11:48.579+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:11:48.593+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:11:48.593+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:11:48.725+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.888 seconds
+[2024-03-23T09:12:19.038+0000] {processor.py:161} INFO - Started process (PID=2277) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:12:19.040+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:12:19.042+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:12:19.042+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:12:19.757+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:12:19.784+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:12:19.784+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:12:19.797+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:12:19.797+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:12:19.939+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.905 seconds
+[2024-03-23T09:12:50.233+0000] {processor.py:161} INFO - Started process (PID=2279) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:12:50.234+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:12:50.235+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:12:50.235+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:12:50.943+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:12:50.984+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:12:50.984+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:12:51.009+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:12:51.009+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:12:51.137+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.907 seconds
+[2024-03-23T09:13:21.367+0000] {processor.py:161} INFO - Started process (PID=2281) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:13:21.369+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:13:21.370+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:13:21.370+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:13:22.036+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:13:22.068+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:13:22.068+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:13:22.082+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:13:22.082+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:13:22.195+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.830 seconds
+[2024-03-23T09:13:52.571+0000] {processor.py:161} INFO - Started process (PID=2283) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:13:52.572+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:13:52.574+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:13:52.573+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:13:53.261+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:13:53.287+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:13:53.287+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:13:53.301+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:13:53.300+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:13:53.434+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.865 seconds
+[2024-03-23T09:14:23.807+0000] {processor.py:161} INFO - Started process (PID=2285) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:14:23.809+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:14:23.812+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:14:23.811+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:14:24.487+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:14:24.518+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:14:24.518+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:14:24.531+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:14:24.531+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:14:24.612+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.811 seconds
+[2024-03-23T09:14:55.015+0000] {processor.py:161} INFO - Started process (PID=2287) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:14:55.018+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:14:55.020+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:14:55.020+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:14:55.666+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:14:55.713+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:14:55.712+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:14:55.735+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:14:55.735+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:14:55.867+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.855 seconds
+[2024-03-23T09:15:26.230+0000] {processor.py:161} INFO - Started process (PID=2289) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:15:26.232+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:15:26.233+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:15:26.233+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:15:26.925+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:15:26.971+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:15:26.970+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:15:26.987+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:15:26.987+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:15:27.125+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.897 seconds
+[2024-03-23T09:15:57.300+0000] {processor.py:161} INFO - Started process (PID=2291) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:15:57.302+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:15:57.305+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:15:57.304+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:15:58.046+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:15:58.078+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:15:58.077+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:15:58.091+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:15:58.091+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:15:58.221+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.927 seconds
+[2024-03-23T09:16:28.611+0000] {processor.py:161} INFO - Started process (PID=2293) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:16:28.613+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:16:28.614+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:16:28.614+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:16:29.322+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:16:29.372+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:16:29.372+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:16:29.391+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:16:29.391+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:16:29.518+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.910 seconds
+[2024-03-23T09:17:00.063+0000] {processor.py:161} INFO - Started process (PID=2295) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T09:17:00.065+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T09:17:00.067+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:17:00.066+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:17:00.796+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T09:17:00.825+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:17:00.825+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T09:17:00.841+0000] {logging_mixin.py:188} INFO - [2024-03-23T09:17:00.841+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T09:17:00.988+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.930 seconds
+[2024-03-23T12:18:40.306+0000] {processor.py:161} INFO - Started process (PID=2297) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:18:40.307+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:18:40.309+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:18:40.308+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:18:43.320+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:18:43.411+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:18:43.410+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:18:43.546+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:18:43.545+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:18:44.084+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 3.782 seconds
+[2024-03-23T12:19:15.192+0000] {processor.py:161} INFO - Started process (PID=2307) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:19:15.194+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:19:15.196+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:19:15.196+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:19:15.967+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:19:16.011+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:19:16.011+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:19:16.031+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:19:16.031+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:19:16.203+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 1.014 seconds
+[2024-03-23T12:19:46.351+0000] {processor.py:161} INFO - Started process (PID=2309) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:19:46.353+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:19:46.354+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:19:46.354+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:19:47.084+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:19:47.123+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:19:47.122+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:19:47.163+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:19:47.163+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:19:47.368+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 1.021 seconds
+[2024-03-23T12:20:17.850+0000] {processor.py:161} INFO - Started process (PID=2311) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:20:17.852+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:20:17.853+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:20:17.853+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:20:18.537+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:20:18.580+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:20:18.580+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:20:18.601+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:20:18.601+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:20:18.737+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.890 seconds
+[2024-03-23T12:20:49.064+0000] {processor.py:161} INFO - Started process (PID=2313) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:20:49.066+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:20:49.068+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:20:49.067+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:20:49.745+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:20:49.791+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:20:49.790+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:20:49.806+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:20:49.806+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:20:49.945+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.884 seconds
+[2024-03-23T12:21:20.275+0000] {processor.py:161} INFO - Started process (PID=2315) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:21:20.277+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:21:20.278+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:21:20.277+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:21:20.925+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:21:20.972+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:21:20.971+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:21:20.994+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:21:20.994+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:21:21.172+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.900 seconds
+[2024-03-23T12:21:51.485+0000] {processor.py:161} INFO - Started process (PID=2317) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:21:51.487+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:21:51.489+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:21:51.489+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:21:52.174+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:21:52.213+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:21:52.213+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:21:52.228+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:21:52.228+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:21:52.352+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.870 seconds
+[2024-03-23T12:22:22.493+0000] {processor.py:161} INFO - Started process (PID=2319) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:22:22.494+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:22:22.495+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:22:22.495+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:22:23.215+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:22:23.250+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:22:23.249+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:22:23.262+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:22:23.262+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:22:23.373+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.883 seconds
+[2024-03-23T12:22:53.680+0000] {processor.py:161} INFO - Started process (PID=2321) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:22:53.681+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:22:53.682+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:22:53.682+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:22:54.328+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:22:54.367+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:22:54.367+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:22:54.383+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:22:54.383+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:22:54.537+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.860 seconds
+[2024-03-23T12:23:25.052+0000] {processor.py:161} INFO - Started process (PID=2323) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:23:25.054+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:23:25.056+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:23:25.055+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:23:25.739+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:23:25.775+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:23:25.774+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:23:25.795+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:23:25.794+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:23:25.943+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.896 seconds
+[2024-03-23T12:23:56.429+0000] {processor.py:161} INFO - Started process (PID=2325) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:23:56.431+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:23:56.432+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:23:56.432+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:23:57.117+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:23:57.143+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:23:57.143+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:23:57.161+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:23:57.161+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:23:57.296+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.868 seconds
+[2024-03-23T12:24:27.628+0000] {processor.py:161} INFO - Started process (PID=2327) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:24:27.630+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:24:27.632+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:24:27.632+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:24:28.269+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:24:28.297+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:24:28.296+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:24:28.314+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:24:28.313+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:24:28.436+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.812 seconds
+[2024-03-23T12:24:58.817+0000] {processor.py:161} INFO - Started process (PID=2329) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:24:58.818+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:24:58.820+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:24:58.820+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:24:59.481+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:24:59.514+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:24:59.513+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:24:59.527+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:24:59.527+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:24:59.725+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.911 seconds
+[2024-03-23T12:25:29.868+0000] {processor.py:161} INFO - Started process (PID=2331) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:25:29.869+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:25:29.872+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:25:29.871+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:25:30.544+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:25:30.576+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:25:30.576+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:25:30.603+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:25:30.603+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:25:30.732+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.867 seconds
+[2024-03-23T12:26:01.015+0000] {processor.py:161} INFO - Started process (PID=2333) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:26:01.017+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:26:01.020+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:26:01.019+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:26:01.753+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:26:01.796+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:26:01.796+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:26:01.815+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:26:01.815+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:26:01.974+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.963 seconds
+[2024-03-23T12:26:32.182+0000] {processor.py:161} INFO - Started process (PID=2335) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:26:32.184+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:26:32.185+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:26:32.185+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:26:32.867+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:26:32.896+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:26:32.895+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:26:32.908+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:26:32.908+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:26:33.044+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.864 seconds
+[2024-03-23T12:27:03.421+0000] {processor.py:161} INFO - Started process (PID=2337) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:27:03.423+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:27:03.425+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:27:03.425+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:27:04.117+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:27:04.146+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:27:04.146+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:27:04.161+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:27:04.161+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:27:04.297+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.879 seconds
+[2024-03-23T12:27:34.603+0000] {processor.py:161} INFO - Started process (PID=2339) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:27:34.604+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:27:34.606+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:27:34.605+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:27:35.293+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:27:35.338+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:27:35.338+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:27:35.352+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:27:35.352+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:27:35.478+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.879 seconds
+[2024-03-23T12:28:05.796+0000] {processor.py:161} INFO - Started process (PID=2341) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:28:05.797+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:28:05.798+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:28:05.798+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:28:06.481+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:28:06.509+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:28:06.508+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:28:06.521+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:28:06.521+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:28:06.643+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.850 seconds
+[2024-03-23T12:28:37.022+0000] {processor.py:161} INFO - Started process (PID=2343) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:28:37.023+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:28:37.024+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:28:37.024+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:28:37.698+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:28:37.741+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:28:37.740+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:28:37.764+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:28:37.764+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:28:37.917+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.899 seconds
+[2024-03-23T12:29:08.109+0000] {processor.py:161} INFO - Started process (PID=2345) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:29:08.110+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:29:08.111+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:29:08.111+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:29:08.794+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:29:08.822+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:29:08.821+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:29:08.834+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:29:08.834+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:29:09.027+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.922 seconds
+[2024-03-23T12:29:39.376+0000] {processor.py:161} INFO - Started process (PID=2347) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:29:39.378+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:29:39.380+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:29:39.380+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:29:40.026+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:29:40.071+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:29:40.071+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:29:40.090+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:29:40.090+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:29:40.287+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.915 seconds
+[2024-03-23T12:30:10.419+0000] {processor.py:161} INFO - Started process (PID=2349) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:30:10.420+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:30:10.422+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:30:10.421+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:30:11.140+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:30:11.188+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:30:11.188+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:30:11.205+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:30:11.205+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:30:11.328+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.912 seconds
+[2024-03-23T12:30:41.628+0000] {processor.py:161} INFO - Started process (PID=2351) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:30:41.629+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:30:41.631+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:30:41.631+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:30:42.284+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:30:42.313+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:30:42.312+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:30:42.332+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:30:42.331+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:30:42.454+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.829 seconds
+[2024-03-23T12:31:12.801+0000] {processor.py:161} INFO - Started process (PID=2353) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:31:12.803+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:31:12.804+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:31:12.804+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:31:13.473+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:31:13.506+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:31:13.506+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:31:13.519+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:31:13.519+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:31:13.645+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.849 seconds
+[2024-03-23T12:31:43.994+0000] {processor.py:161} INFO - Started process (PID=2355) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:31:43.996+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:31:43.999+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:31:43.998+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:31:44.681+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:31:44.717+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:31:44.717+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:31:44.733+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:31:44.733+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:31:44.914+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.923 seconds
+[2024-03-23T12:32:15.260+0000] {processor.py:161} INFO - Started process (PID=2357) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:32:15.261+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:32:15.263+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:32:15.262+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:32:15.934+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:32:15.971+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:32:15.970+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:32:15.995+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:32:15.994+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:32:16.093+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.836 seconds
+[2024-03-23T12:32:46.473+0000] {processor.py:161} INFO - Started process (PID=2359) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:32:46.475+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:32:46.477+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:32:46.477+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:32:47.206+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:32:47.247+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:32:47.246+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:32:47.261+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:32:47.261+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:32:47.380+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.912 seconds
+[2024-03-23T12:33:17.691+0000] {processor.py:161} INFO - Started process (PID=2361) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:33:17.692+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:33:17.694+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:33:17.693+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:33:18.319+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:33:18.352+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:33:18.352+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:33:18.366+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:33:18.366+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:33:18.463+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.774 seconds
+[2024-03-23T12:33:48.535+0000] {processor.py:161} INFO - Started process (PID=2363) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:33:48.537+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:33:48.538+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:33:48.538+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:33:49.268+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:33:49.302+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:33:49.302+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:33:49.319+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:33:49.318+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:33:49.463+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.931 seconds
+[2024-03-23T12:34:19.900+0000] {processor.py:161} INFO - Started process (PID=2365) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:34:19.902+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:34:19.904+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:34:19.903+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:34:20.594+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:34:20.620+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:34:20.620+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:34:20.637+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:34:20.636+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:34:20.747+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.849 seconds
+[2024-03-23T12:34:51.068+0000] {processor.py:161} INFO - Started process (PID=2367) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:34:51.069+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:34:51.071+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:34:51.070+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:34:51.784+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:34:51.821+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:34:51.820+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:34:51.837+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:34:51.837+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:34:51.970+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.905 seconds
+[2024-03-23T12:35:22.369+0000] {processor.py:161} INFO - Started process (PID=2369) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:35:22.371+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:35:22.373+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:35:22.372+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:35:23.086+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:35:23.118+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:35:23.118+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:35:23.132+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:35:23.132+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:35:23.283+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.916 seconds
+[2024-03-23T12:35:53.749+0000] {processor.py:161} INFO - Started process (PID=2371) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:35:53.750+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:35:53.752+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:35:53.751+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:35:54.467+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:35:54.507+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:35:54.507+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:35:54.525+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:35:54.525+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:35:54.703+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.958 seconds
+[2024-03-23T12:36:25.029+0000] {processor.py:161} INFO - Started process (PID=2373) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T12:36:25.031+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T12:36:25.033+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:36:25.032+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:36:25.723+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T12:36:25.752+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:36:25.751+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T12:36:25.770+0000] {logging_mixin.py:188} INFO - [2024-03-23T12:36:25.770+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T12:36:25.905+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.883 seconds
+[2024-03-23T15:38:15.271+0000] {processor.py:161} INFO - Started process (PID=2379) to work on /opt/airflow/dags/api_dag.py
+[2024-03-23T15:38:15.323+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-23T15:38:15.327+0000] {logging_mixin.py:188} INFO - [2024-03-23T15:38:15.326+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-23T15:38:21.259+0000] {processor.py:840} INFO - DAG(s) 'store_api_data_in_snowflake' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-23T15:38:21.372+0000] {logging_mixin.py:188} INFO - [2024-03-23T15:38:21.371+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-23T15:38:21.453+0000] {logging_mixin.py:188} INFO - [2024-03-23T15:38:21.451+0000] {dag.py:3834} INFO - Setting next_dagrun for store_api_data_in_snowflake to None, run_after=None
+[2024-03-23T15:38:21.620+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 6.357 seconds

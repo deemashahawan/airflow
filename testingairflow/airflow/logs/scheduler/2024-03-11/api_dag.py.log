@@ -1,0 +1,186 @@
+[2024-03-11T22:45:45.312+0000] {processor.py:161} INFO - Started process (PID=77) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:45:45.315+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:45:45.318+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:45:45.317+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:45:45.407+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:45:45.390+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/api_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/api_dag.py", line 31, in <module>
+    'retry_delay': timedelta(minutes=5),
+NameError: name 'timedelta' is not defined
+[2024-03-11T22:45:45.412+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:45:45.578+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.271 seconds
+[2024-03-11T22:46:16.750+0000] {processor.py:161} INFO - Started process (PID=79) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:46:16.756+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:46:16.761+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:46:16.760+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:46:16.839+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:46:16.826+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/api_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/api_dag.py", line 31, in <module>
+    'retry_delay': timedelta(minutes=5),
+NameError: name 'timedelta' is not defined
+[2024-03-11T22:46:16.842+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:46:16.952+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.223 seconds
+[2024-03-11T22:46:47.866+0000] {processor.py:161} INFO - Started process (PID=81) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:46:47.870+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:46:47.876+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:46:47.874+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:46:47.941+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:46:47.925+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/api_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/api_dag.py", line 31, in <module>
+    'retry_delay': timedelta(minutes=5),
+NameError: name 'timedelta' is not defined
+[2024-03-11T22:46:47.947+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:46:48.042+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.181 seconds
+[2024-03-11T22:47:03.444+0000] {processor.py:161} INFO - Started process (PID=82) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:47:03.449+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:47:03.451+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:47:03.451+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:47:03.530+0000] {processor.py:840} INFO - DAG(s) 'api_reader_dag' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:47:03.909+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:47:03.907+0000] {override.py:1769} INFO - Created Permission View: can edit on DAG:api_reader_dag
+[2024-03-11T22:47:03.974+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:47:03.973+0000] {override.py:1769} INFO - Created Permission View: can read on DAG:api_reader_dag
+[2024-03-11T22:47:04.038+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:47:04.036+0000] {override.py:1769} INFO - Created Permission View: can delete on DAG:api_reader_dag
+[2024-03-11T22:47:04.039+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:47:04.039+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-11T22:47:04.083+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:47:04.082+0000] {dag.py:3069} INFO - Creating ORM DAG for api_reader_dag
+[2024-03-11T22:47:04.085+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:47:04.085+0000] {dag.py:3834} INFO - Setting next_dagrun for api_reader_dag to None, run_after=None
+[2024-03-11T22:47:04.247+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.807 seconds
+[2024-03-11T22:47:05.649+0000] {processor.py:161} INFO - Started process (PID=83) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:47:05.652+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:47:05.655+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:47:05.655+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:47:05.733+0000] {processor.py:840} INFO - DAG(s) 'api_reader_dag' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:47:05.822+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:47:05.821+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-11T22:47:05.863+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:47:05.863+0000] {dag.py:3834} INFO - Setting next_dagrun for api_reader_dag to None, run_after=None
+[2024-03-11T22:47:05.993+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.350 seconds
+[2024-03-11T22:47:47.066+0000] {processor.py:161} INFO - Started process (PID=95) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:47:47.070+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:47:47.073+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:47:47.072+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:47:47.159+0000] {processor.py:840} INFO - DAG(s) 'api_reader_dag' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:47:47.242+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:47:47.241+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-11T22:47:47.278+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:47:47.277+0000] {dag.py:3834} INFO - Setting next_dagrun for api_reader_dag to None, run_after=None
+[2024-03-11T22:47:47.458+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.399 seconds
+[2024-03-11T22:48:18.139+0000] {processor.py:161} INFO - Started process (PID=97) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:48:18.141+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:48:18.143+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:48:18.142+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:48:18.186+0000] {processor.py:840} INFO - DAG(s) 'api_reader_dag' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:48:18.252+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:48:18.251+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-11T22:48:18.280+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:48:18.280+0000] {dag.py:3834} INFO - Setting next_dagrun for api_reader_dag to None, run_after=None
+[2024-03-11T22:48:18.445+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.312 seconds
+[2024-03-11T22:48:49.070+0000] {processor.py:161} INFO - Started process (PID=99) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:48:49.073+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:48:49.075+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:48:49.075+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:48:49.139+0000] {processor.py:840} INFO - DAG(s) 'api_reader_dag' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:48:49.209+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:48:49.208+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-11T22:48:49.244+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:48:49.243+0000] {dag.py:3834} INFO - Setting next_dagrun for api_reader_dag to None, run_after=None
+[2024-03-11T22:48:49.430+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.367 seconds
+[2024-03-11T22:49:19.828+0000] {processor.py:161} INFO - Started process (PID=101) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:49:19.833+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:49:19.835+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:49:19.835+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:49:19.908+0000] {processor.py:840} INFO - DAG(s) 'api_reader_dag' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:49:19.972+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:49:19.971+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-11T22:49:20.005+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:49:20.005+0000] {dag.py:3834} INFO - Setting next_dagrun for api_reader_dag to None, run_after=None
+[2024-03-11T22:49:20.187+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.367 seconds
+[2024-03-11T22:49:40.033+0000] {processor.py:161} INFO - Started process (PID=103) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:49:40.035+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:49:40.038+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:49:40.038+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:49:40.170+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:49:40.151+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/api_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/api_dag.py", line 36, in <module>
+    with DAG('api_reader_dag',
+TypeError: __init__() got an unexpected keyword argument 'timezone'
+[2024-03-11T22:49:40.179+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:49:40.321+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.294 seconds
+[2024-03-11T22:50:10.662+0000] {processor.py:161} INFO - Started process (PID=105) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:50:10.664+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:50:10.667+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:50:10.666+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:50:10.740+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:50:10.723+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/api_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/api_dag.py", line 36, in <module>
+    with DAG('api_reader_dag',
+TypeError: __init__() got an unexpected keyword argument 'timezone'
+[2024-03-11T22:50:10.745+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:50:10.891+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.239 seconds
+[2024-03-11T22:50:42.018+0000] {processor.py:161} INFO - Started process (PID=107) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:50:42.020+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:50:42.022+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:50:42.022+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:50:42.079+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:50:42.065+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/api_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/api_dag.py", line 36, in <module>
+    with DAG('api_reader_dag',
+TypeError: __init__() got an unexpected keyword argument 'timezone'
+[2024-03-11T22:50:42.085+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:50:42.195+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.183 seconds
+[2024-03-11T22:50:48.801+0000] {processor.py:161} INFO - Started process (PID=108) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:50:48.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:50:48.808+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:50:48.807+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:50:48.900+0000] {processor.py:840} INFO - DAG(s) 'api_reader_dag' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:50:49.233+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:50:49.232+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-11T22:50:49.264+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:50:49.263+0000] {dag.py:3834} INFO - Setting next_dagrun for api_reader_dag to None, run_after=None
+[2024-03-11T22:50:49.469+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.675 seconds
+[2024-03-11T22:51:19.744+0000] {processor.py:161} INFO - Started process (PID=120) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:51:19.746+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:51:19.748+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:51:19.748+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:51:19.800+0000] {processor.py:840} INFO - DAG(s) 'api_reader_dag' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:51:19.871+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:51:19.870+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-11T22:51:19.902+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:51:19.901+0000] {dag.py:3834} INFO - Setting next_dagrun for api_reader_dag to None, run_after=None
+[2024-03-11T22:51:20.033+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.295 seconds
+[2024-03-11T22:51:51.029+0000] {processor.py:161} INFO - Started process (PID=122) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:51:51.031+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:51:51.033+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:51:51.033+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:51:51.126+0000] {processor.py:840} INFO - DAG(s) 'api_reader_dag' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:51:51.188+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:51:51.187+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-11T22:51:51.218+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:51:51.218+0000] {dag.py:3834} INFO - Setting next_dagrun for api_reader_dag to None, run_after=None
+[2024-03-11T22:51:51.356+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.334 seconds
+[2024-03-11T22:52:22.462+0000] {processor.py:161} INFO - Started process (PID=124) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:52:22.464+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:52:22.467+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:52:22.466+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:52:22.516+0000] {processor.py:840} INFO - DAG(s) 'api_reader_dag' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:52:22.582+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:52:22.581+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-11T22:52:22.612+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:52:22.612+0000] {dag.py:3834} INFO - Setting next_dagrun for api_reader_dag to None, run_after=None
+[2024-03-11T22:52:22.787+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.331 seconds
+[2024-03-11T22:52:53.505+0000] {processor.py:161} INFO - Started process (PID=126) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:52:53.507+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:52:53.510+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:52:53.509+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:52:53.565+0000] {processor.py:840} INFO - DAG(s) 'api_reader_dag' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:52:53.632+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:52:53.631+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-11T22:52:53.662+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:52:53.662+0000] {dag.py:3834} INFO - Setting next_dagrun for api_reader_dag to None, run_after=None
+[2024-03-11T22:52:53.849+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.350 seconds
+[2024-03-11T22:53:24.973+0000] {processor.py:161} INFO - Started process (PID=128) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:53:24.976+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:53:24.978+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:53:24.977+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:53:25.026+0000] {processor.py:840} INFO - DAG(s) 'api_reader_dag' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:53:25.090+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:53:25.090+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-11T22:53:25.122+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:53:25.122+0000] {dag.py:3834} INFO - Setting next_dagrun for api_reader_dag to None, run_after=None
+[2024-03-11T22:53:25.281+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.313 seconds
+[2024-03-11T22:53:56.447+0000] {processor.py:161} INFO - Started process (PID=130) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:53:56.450+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:53:56.452+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:53:56.451+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:53:56.510+0000] {processor.py:840} INFO - DAG(s) 'api_reader_dag' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:53:56.578+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:53:56.578+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-11T22:53:56.613+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:53:56.613+0000] {dag.py:3834} INFO - Setting next_dagrun for api_reader_dag to None, run_after=None
+[2024-03-11T22:53:56.794+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.352 seconds
+[2024-03-11T22:54:28.017+0000] {processor.py:161} INFO - Started process (PID=132) to work on /opt/airflow/dags/api_dag.py
+[2024-03-11T22:54:28.019+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/api_dag.py for tasks to queue
+[2024-03-11T22:54:28.021+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:54:28.021+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:54:28.073+0000] {processor.py:840} INFO - DAG(s) 'api_reader_dag' retrieved from /opt/airflow/dags/api_dag.py
+[2024-03-11T22:54:28.142+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:54:28.141+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-11T22:54:28.174+0000] {logging_mixin.py:188} INFO - [2024-03-11T22:54:28.174+0000] {dag.py:3834} INFO - Setting next_dagrun for api_reader_dag to None, run_after=None
+[2024-03-11T22:54:28.381+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/api_dag.py took 0.370 seconds

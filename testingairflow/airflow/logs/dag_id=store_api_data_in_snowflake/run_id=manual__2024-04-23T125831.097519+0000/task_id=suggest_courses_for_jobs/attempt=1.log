@@ -1,0 +1,24 @@
+[2024-04-23T12:59:39.004+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: store_api_data_in_snowflake.suggest_courses_for_jobs manual__2024-04-23T12:58:31.097519+00:00 [queued]>
+[2024-04-23T12:59:39.030+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: store_api_data_in_snowflake.suggest_courses_for_jobs manual__2024-04-23T12:58:31.097519+00:00 [queued]>
+[2024-04-23T12:59:39.031+0000] {taskinstance.py:2193} INFO - Starting attempt 1 of 2
+[2024-04-23T12:59:39.119+0000] {taskinstance.py:2217} INFO - Executing <Task(PythonOperator): suggest_courses_for_jobs> on 2024-04-23 12:58:31.097519+00:00
+[2024-04-23T12:59:39.126+0000] {standard_task_runner.py:60} INFO - Started process 1023 to run task
+[2024-04-23T12:59:39.131+0000] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'store_api_data_in_snowflake', 'suggest_courses_for_jobs', 'manual__2024-04-23T12:58:31.097519+00:00', '--job-id', '215', '--raw', '--subdir', 'DAGS_FOLDER/api_dag.py', '--cfg-path', '/tmp/tmp41585_v8']
+[2024-04-23T12:59:39.135+0000] {standard_task_runner.py:88} INFO - Job 215: Subtask suggest_courses_for_jobs
+[2024-04-23T12:59:39.352+0000] {task_command.py:423} INFO - Running <TaskInstance: store_api_data_in_snowflake.suggest_courses_for_jobs manual__2024-04-23T12:58:31.097519+00:00 [running]> on host a42b486af92a
+[2024-04-23T12:59:39.668+0000] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='store_api_data_in_snowflake' AIRFLOW_CTX_TASK_ID='suggest_courses_for_jobs' AIRFLOW_CTX_EXECUTION_DATE='2024-04-23T12:58:31.097519+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-04-23T12:58:31.097519+00:00'
+[2024-04-23T12:59:39.702+0000] {base.py:83} INFO - Using connection ID 'snowflake-conn' for task execution.
+[2024-04-23T12:59:39.905+0000] {base.py:83} INFO - Using connection ID 'snowflake-conn' for task execution.
+[2024-04-23T12:59:39.907+0000] {connection.py:386} INFO - Snowflake Connector for Python Version: 3.7.1, Python Version: 3.8.18, Platform: Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.34
+[2024-04-23T12:59:39.908+0000] {connection.py:1211} INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2024-04-23T12:59:40.920+0000] {cursor.py:1032} INFO - query: [INSERT INTO SUGGESTED_COURSES (job_title, course_title) SELECT DISTINCT REGEXP_R...]
+[2024-04-23T12:59:41.801+0000] {cursor.py:1045} INFO - query execution done
+[2024-04-23T12:59:41.805+0000] {cursor.py:1032} INFO - query: [COMMIT]
+[2024-04-23T12:59:42.013+0000] {cursor.py:1045} INFO - query execution done
+[2024-04-23T12:59:42.016+0000] {cursor.py:1205} INFO - Number of results in first chunk: 1
+[2024-04-23T12:59:42.018+0000] {connection.py:734} INFO - closed
+[2024-04-23T12:59:42.208+0000] {connection.py:740} INFO - No async queries seem to be running, deleting session
+[2024-04-23T12:59:42.401+0000] {python.py:202} INFO - Done. Returned value was: None
+[2024-04-23T12:59:42.437+0000] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=store_api_data_in_snowflake, task_id=suggest_courses_for_jobs, execution_date=20240423T125831, start_date=20240423T125939, end_date=20240423T125942
+[2024-04-23T12:59:42.571+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2024-04-23T12:59:42.612+0000] {taskinstance.py:3312} INFO - 0 downstream tasks scheduled from follow-on schedule check
